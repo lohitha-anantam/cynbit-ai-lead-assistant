@@ -1,0 +1,22 @@
+[
+    {
+        "service": "AI Automation",
+        "description": "AI agents, LLM integrations, chatbots, and business workflow automation."
+    },
+    {
+        "service": "Custom Software Development",
+        "description": "Custom web applications, backend systems, and software development."
+    },
+    {
+        "service": "Cloud Infrastructure",
+        "description": "Cloud architecture, deployment, infrastructure management, and scalable systems."
+    },
+    {
+        "service": "Digital Marketing",
+        "description": "Digital marketing, search engine optimization, and marketing automation."
+    },
+    {
+        "service": "CRM Automation",
+        "description": "Customer relationship management workflows, follow-up automation, and lead management."
+    }
+]

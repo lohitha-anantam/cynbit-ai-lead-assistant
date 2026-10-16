@@ -1,0 +1,6 @@
+Lead ID,Inquiry,Expected category,Retrieved category,Top-1 match,Score,Priority,LLM status
+1,We need an AI chatbot that answers questions from our company PDF documents.,AI Automation,AI Automation,True,84,High,Completed
+2,We need a website and a custom backend for our startup.,Custom Software Development,Custom Software Development,True,43,Medium,Completed
+3,We want to automate CRM follow-ups and manage our business leads.,CRM Automation,CRM Automation,True,68,Medium,Completed
+4,We need cloud deployment and scalable infrastructure for our application.,Cloud Infrastructure,Cloud Infrastructure,True,69,Medium,Completed
+5,We need help improving our SEO and digital marketing.,Digital Marketing,Digital Marketing,True,41,Medium,Completed
